@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.2.0",
+  "latest_version": "1.1.0",
   "min_supported_version": "1.0.0",
-  "update_message": "🌊 新增10個墾丁潛點\n📝 感謝名單功能\n🔗 Instagram連結",
+  "update_message": "🌊 新增墾丁潛點與修正錯誤座標\n📝 感謝名單\n,
   "update_title": "探索潛水 v1.2.0 測試更新",
   "force_update": false,
   "store_url_ios": "https://apps.apple.com/tw/app/explore-diving-%E6%8E%A2%E7%B4%A2%E6%BD%9B%E6%B0%B4/id6756210232",
