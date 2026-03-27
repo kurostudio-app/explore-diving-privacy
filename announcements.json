@@ -1,13 +1,13 @@
 {
   "announcements": [
     {
-      "id": "ann-2026-01-15-001",
-      "title": "探索潛水 Android 版本上架!",
-      "message": "探索潛水已經在Android與iOS同步上架!歡迎分享給朋友們下載!",
+      "id": "ann-2026-03-27-001",
+      "title": "探索潛水 v1.4.0 雙平台全新上架！🤿",
+      "message": "備受期待的「專屬潛水日誌」與 93 個絕美在地潛點終於開放啦！快去各大商店更新，帶著手機紀錄您的下一潛吧！",
       "type": "info",
       "priority": "normal",
-      "start_date": "2026-01-15",
-      "end_date": "2026-05-30",
+      "start_date": "2026-03-27",
+      "end_date": "2026-06-30",
       "show_once": true,
       "action_url": ""
     }
